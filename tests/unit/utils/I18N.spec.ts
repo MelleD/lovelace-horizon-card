@@ -6,6 +6,7 @@ import { I18N } from '../../../src/utils/I18N'
 describe('I18N', () => {
   const localize = (key) => key
   describe('constructor', () => {
+    
     it('initializes localization correctly', () => {
       const language = 'es'
       const i18n = new I18N(language, 'UTC', TimeFormat.am_pm, NumberFormat.language, localize)
