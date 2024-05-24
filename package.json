@@ -28,7 +28,7 @@
     "@babel/plugin-proposal-object-rest-spread": "^7.20.7",
     "@babel/plugin-syntax-decorators": "^7.21.0",
     "@babel/preset-env": "^7.24.5",
-    "@babel/preset-typescript": "^7.21.0",
+    "@babel/preset-typescript": "^7.24.6",
     "@rollup/plugin-babel": "^6.0.4",
     "@rollup/plugin-commonjs": "^25.0.7",
     "@rollup/plugin-json": "^6.1.0",
